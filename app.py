@@ -59,7 +59,7 @@ app.geometry("1000x800")
 
 title = ctk.CTkLabel(
     app,
-    text="SHREE SAI SARAVANABHAVA TRADERS",
+    text="AGILE PROJECT",
     font=("Arial", 32, "bold")
 )
 
