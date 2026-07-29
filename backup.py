@@ -2,7 +2,7 @@ import os
 import shutil
 from datetime import datetime
 
-MAX_BACKUPS = 5
+MAX_BACKUPS = 10
 
 def create_backup():
 
