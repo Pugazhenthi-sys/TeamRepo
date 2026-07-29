@@ -1,6 +1,6 @@
 from database import conn, cursor
 
-bill_no = 23
+bill_no = 77
 
 cursor.execute(
     "DELETE FROM sales_register WHERE bill_no=?",
