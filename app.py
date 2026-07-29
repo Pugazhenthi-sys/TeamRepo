@@ -468,7 +468,7 @@ def open_view_bills():
 
                 bill_label.pack(
                     side="left",
-                    padx=10,
+                    padx=15,
                     pady=10
                 )
 
